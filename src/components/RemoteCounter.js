@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import CounterContext from './Counter.js'
+import {CounterContext} from './Counter.js' //not default exported so use {}
 
 
 function RemoteCounter() {
