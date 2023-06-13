@@ -6,7 +6,7 @@ import '../App.css';
 function RandomImage() {
     return (
         <div className="random-flex">
-            <img src="https://picsum.photos/200/300" alt="random"/>
+            <img src="https://cataas.com/cat" alt="random"/>
             <span >RandomImage</span>     
         </div>
 
