@@ -3,7 +3,7 @@
 .random-app-flex{
   display:flex;
   gap: 10%;
-  margin-left: 100px;
+  margin-left: 0px;
 }
 .random-flex{
   display :flex;
